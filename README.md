@@ -1,4 +1,4 @@
-# Trabalho 1 - Programação Concorrente - ine5410 (2022.2) - Sushi Shop Simulator
+# Trabalho 1 - Programação Concorrente - INE5410 (2022.2) - Sushi Shop Simulator
 
 ## Visão geral
 
